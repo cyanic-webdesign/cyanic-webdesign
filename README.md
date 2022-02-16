@@ -1,6 +1,13 @@
-### About me
+<div align="right">
+  <img src="https://resources.wehkamp.nl/latest/images/logo_wehkamp.svg" width="160" />
+</div>
 
-### Blog Posts
+### Berry de Witte - Tech Lead Store - BComn
+Hi! I'm Berry, a passionate frontend developer and currently working as a tech lead for [Wehkamp](https://www.wehkamp.nl) which is one of the biggest e-commerce companies of the Netherlands. With our team of excellent developers we're working on a high performant microsite and -service landscape. Satisfying the millions of Dutch customers with a fast and smooth user experience, that is what gives me the ultimate joy.
+
+Feel free to [connect](https://www.linkedin.com/in/berry-de-witte/) with me. If you are looking for a great job, please look at our [job offers](https://werkenbij.wehkamp.nl) and do check out our [techblog](https://medium.com/wehkamp-techblog)!
+
+### Latest stories
 <!-- BLOG-POST-LIST:START -->
 - [Why well written commit messages can be of more importance than you think](https://medium.com/wehkamp-techblog/why-well-written-commit-messages-can-be-of-more-importance-than-you-think-9a51e11d5d96?source=rss-2049887beb0d------2)
 - [How Apollo GraphQL had a major impact on our microsite performance](https://medium.com/wehkamp-techblog/how-apollo-graphql-had-a-major-impact-on-our-microsite-performance-a8b92278aae?source=rss-2049887beb0d------2)
@@ -14,7 +21,7 @@
 - [Unit testing your React application with Jest and Enzyme](https://medium.com/wehkamp-techblog/unit-testing-your-react-application-with-jest-and-enzyme-81c5545cee45?source=rss-2049887beb0d------2)
 <!-- BLOG-POST-LIST:END -->
 
-### My Favourite Stack
+### Stack of trades
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
