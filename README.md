@@ -3,7 +3,7 @@
 </div>
 
 ### Berry de Witte - Tech Lead Store - BComn
-Hi! I'm Berry, a passionate frontend developer and currently working as a tech lead for [Wehkamp](https://www.wehkamp.nl) which is one of the biggest e-commerce companies of the Netherlands. With our team of excellent developers we're working on a high performant microsite and -service landscape. Satisfying the millions of Dutch customers with a fast and smooth user experience, that is what gives me the ultimate joy.
+Hi! I'm Berry, a passionate lead frontend developer and currently working as a tech lead for [Wehkamp](https://www.wehkamp.nl) which is one of the biggest e-commerce companies of the Netherlands. With our team of excellent developers we're working on a high performant microsite and -service landscape. Satisfying the millions of Dutch customers with a fast and smooth user experience, that is what gives me the ultimate joy.
 
 Feel free to [connect](https://www.linkedin.com/in/berry-de-witte/) with me. If you are looking for a great job, please look at our [job offers](https://werkenbij.wehkamp.nl) and do check out our [techblog](https://medium.com/wehkamp-techblog)!
 
