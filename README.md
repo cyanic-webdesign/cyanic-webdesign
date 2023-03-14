@@ -9,6 +9,7 @@ Feel free to [connect](https://www.linkedin.com/in/berry-de-witte/) with me. If 
 
 ### Latest stories
 <!-- BLOG-POST-LIST:START -->
+- [From one webshop to a multi-tenant setup](https://medium.com/wehkamp-techblog/from-a-one-shop-to-a-multi-tenant-setup-864e69fc7f54?source=rss-2049887beb0d------2)
 - [How we set up our e-commerce microsite environment](https://medium.com/front-end-weekly/how-we-set-up-our-e-commerce-microsite-environment-340743245b2e?source=rss-2049887beb0d------2)
 - [Why well written commit messages can be of more importance than you think](https://medium.com/wehkamp-techblog/why-well-written-commit-messages-can-be-of-more-importance-than-you-think-9a51e11d5d96?source=rss-2049887beb0d------2)
 - [How Apollo GraphQL had a major impact on our microsite performance](https://medium.com/wehkamp-techblog/how-apollo-graphql-had-a-major-impact-on-our-microsite-performance-a8b92278aae?source=rss-2049887beb0d------2)
@@ -18,7 +19,6 @@ Feel free to [connect](https://www.linkedin.com/in/berry-de-witte/) with me. If 
 - [Say yes to auto deploy, it can be only one click away!](https://medium.com/wehkamp-techblog/say-yes-to-auto-deploy-it-can-be-only-one-click-away-64f43ae82d9a?source=rss-2049887beb0d------2)
 - [My FizzBuzz solution in Python](https://berrywhite.medium.com/my-fizzbuzz-solution-in-python-9829a960f524?source=rss-2049887beb0d------2)
 - [Effectively  boost your &lpar;mobile&rpar; website performance!](https://medium.com/wehkamp-techblog/effectively-boost-your-mobile-website-performance-af6c16af75e6?source=rss-2049887beb0d------2)
-- [Integration testing with Cypress 101](https://medium.com/wehkamp-techblog/integration-testing-with-cypress-101-2524d3244bb4?source=rss-2049887beb0d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stack of trades
