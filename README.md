@@ -9,8 +9,8 @@ Feel free to [connect](https://www.linkedin.com/in/berry-de-witte/) with me. If 
 
 ### Latest stories
 <!-- BLOG-POST-LIST:START -->
-- [From one webshop to a multi-tenant setup](https://medium.com/wehkamp-techblog/from-a-one-shop-to-a-multi-tenant-setup-864e69fc7f54?source=rss-2049887beb0d------2)
-- [How we set up our e-commerce microsite environment](https://medium.com/front-end-weekly/how-we-set-up-our-e-commerce-microsite-environment-340743245b2e?source=rss-2049887beb0d------2)
+- [From one webshop to a multi-tenant setup](https://medium.com/front-end-weekly/from-a-one-shop-to-a-multi-tenant-setup-864e69fc7f54?source=rss-2049887beb0d------2)
+- [How we set up our e-commerce microsite environment](https://medium.com/wehkamp-techblog/how-we-set-up-our-e-commerce-microsite-environment-340743245b2e?source=rss-2049887beb0d------2)
 - [Why well written commit messages can be of more importance than you think](https://medium.com/wehkamp-techblog/why-well-written-commit-messages-can-be-of-more-importance-than-you-think-9a51e11d5d96?source=rss-2049887beb0d------2)
 - [How Apollo GraphQL had a major impact on our microsite performance](https://medium.com/wehkamp-techblog/how-apollo-graphql-had-a-major-impact-on-our-microsite-performance-a8b92278aae?source=rss-2049887beb0d------2)
 - [Structurize your GraphQL implementation with fragments and unions](https://medium.com/wehkamp-techblog/structurize-your-graphql-implementation-with-fragments-and-unions-6ba3ba12253?source=rss-2049887beb0d------2)
