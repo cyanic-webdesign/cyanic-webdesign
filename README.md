@@ -1,9 +1,11 @@
 <div align="right">
-  <img src="https://www.edsn.nl/wp-content/uploads/2022/12/logo.png.webp" width="160" />
+  <img src="https://www.edsn.nl/wp-content/uploads/2022/12/logo.png" width="160" />
 </div>
 
-### Berry de Witte - Senior Frontend Developer - DevOPS - BComn
-Hi! I'm Berry, a passionate (lead) front-end developer and currently working for [EDSN](https://www.edsn.nl). Feel free to [connect](https://www.linkedin.com/in/berry-de-witte/) with me. If you are looking for a great job, please look at our [job offers]([https://edsn.nl](https://werkenbij.edsn.nl/) and do check out my [tech blog](https://medium.com/berrywhite)!
+### Berry de Witte - Senior Frontend Developer - GOPACS - BComn
+Hi! I'm Berry, a passionate (lead) front-end developer and currently working for [EDSN](https://www.edsn.nl). With our team of excellent developers, we're working on Grid Operators Platform for Congestion Solutions (GOPACS). 
+
+Feel free to [connect](https://www.linkedin.com/in/berry-de-witte/) with me. If you are looking for a great job, please check out our [job offers]([https://edsn.nl](https://werkenbij.edsn.nl/) and do check out my [tech blog](https://medium.com/berrywhite)!
 
 ### Latest stories
 <!-- BLOG-POST-LIST:START -->
