@@ -2,7 +2,7 @@
   <img src="https://www.edsn.nl/wp-content/uploads/2022/12/logo.png" width="160" />
 </div>
 
-### Berry de Witte - Senior Frontend Developer - GOPACS - BComn
+### Berry de Witte - Tech Lead - Senior Frontend Developer - GOPACS - BComn
 Hi! I'm Berry, a passionate (lead) front-end developer and currently working for [EDSN](https://www.edsn.nl). With our team of excellent developers, we're continuously improving the Grid Operators Platform for Congestion Solutions (GOPACS). 
 
 Feel free to [connect or reach out](https://www.linkedin.com/in/berry-de-witte/) to me. Please check out our [job offers](https://werkenbij.edsn.nl/) if you're interested in a great job!
